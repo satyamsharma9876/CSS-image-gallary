@@ -6,7 +6,7 @@ This is a simple image gallery made using HTML and CSS
 -styleimage_gallary.css
 
 ## Preview
-![Preview](screenshot.png)
+![Preview](video.mp4)
 
 ## Author
 Satyam Sharma
